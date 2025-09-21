@@ -16,9 +16,4 @@
 
 ![Ratman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratman141&show_icons=true&theme=radical)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratman141&layout=donut-vertical&theme=radical)
-
-# Contact ME
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1354198211182727248)](https://discord.com/users/1354198211182727248)
