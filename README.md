@@ -11,7 +11,7 @@
 <p align="left">
 </p>
 
-<![Ratman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratman141&show_icons=true&theme=radical)
+![Ratman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratman141&show_icons=true&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratman141&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratman141&layout=donut-vertical&theme=radical)
