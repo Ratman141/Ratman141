@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ratman</h1>
+<h3 align="center">I'm just learning how to do some stuff</h3>
 
-<!--
-**Ratman141/Ratman141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **HOI4 mod about my fictional country**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **HOI4 modding, C++ and some more as side projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **grass is green**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratman141&show_icons=true&locale=en&layout=compact" alt="ratman141" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratman141&show_icons=true&locale=en" alt="ratman141" /></p>
