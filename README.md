@@ -21,4 +21,4 @@
 
 # Contact ME
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1354198211182727248?theme=dark)](https://discord.com/users/1354198211182727248)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1354198211182727248)](https://discord.com/users/1354198211182727248)
