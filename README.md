@@ -11,9 +11,3 @@
 
 <p align="left">
 </p>
-
-# Some Stats
-
-![Ratman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ratman141&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratman141&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
