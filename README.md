@@ -16,4 +16,4 @@
 
 ![Ratman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratman141&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ratman141&layout=donut-vertical&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ratman141&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
