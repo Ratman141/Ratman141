@@ -19,6 +19,8 @@
 - 🎮 Finish **HOI4** mod
 
 - 🛠️ Learn using **microcontrollers** and programming them in either **C++** or **micropython**
+
+- 🐧 Learn using Linux
 # 
 <h3>Future Goals</h3>
 
