@@ -3,9 +3,7 @@
 
 # Some Info
 
-- 🔭 ~~I’m currently working on **HOI4 mod about my fictional country**~~
-
-- 🌱 I’m currently learning **~~HOI4 modding~~, C++ and some more as side projects**
+- 🌱 I’m currently learning **C++ and some more as side projects**
 
 - 🐣 I have very little **coding skills** for **now** (maybe i'd be able to make something in **scratch**)
 
@@ -16,11 +14,12 @@
 
 - 💻 Learn **C++**
 
-- 🎮 ~~Finish **HOI4** mod~~  //Canceled because it takes too much time for one person to complete and I don't know how to make graphics
-
 - 💡 Learn a bit of **electronics**
 
 - 🛠️ Learn using **microcontrollers** and programming them in either **C++** or **micropython**
+  
+#
+<h3>Completed goals</h3>
 
 - 🐧 ~~Learn using Linux~~    //Completed to the level that I am satisfied with (maybe I'll learn more in the future)
 # 
