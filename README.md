@@ -19,10 +19,7 @@
 - 🛠️ Learn using **microcontrollers** and programming them in either **C++** or **micropython**
   
 #
-<h3>Completed goals</h3>
 
-- 🐧 Learn using Linux   //Completed to the level that I am satisfied with (maybe I'll learn more in the future)
-# 
 <h3>Future Goals</h3>
 
 - 🌐 A bit of **web development** (just for simple stuff)
