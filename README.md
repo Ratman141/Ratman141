@@ -26,7 +26,7 @@
 
 - 🖥️ Learn **C**
 
-- 🧩 Learn **X86-64 Assembly** (and maybe **6502**)
+- 🧩 Learn **X86-64 Assembly**
 
 - 💡 Learn **digital electronics**
 
